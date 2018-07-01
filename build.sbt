@@ -18,7 +18,7 @@ routesGenerator := InjectedRoutesGenerator
 
 enablePlugins(DebianPlugin)
 
-maintainer := "Edward Viaene <ward@in4it.io>"
+maintainer := "glenn <glennoph@gmail.com>"
 
 packageSummary := "My custom package"
 
